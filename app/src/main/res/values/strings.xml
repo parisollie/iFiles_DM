@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iFiles DM</string>
+    <!--Paso 3, pongo mis strings para mi activiti_main.xml-->
+    <string name="textoAlmacenado">Texto a almacenar</string>
+</resources>
