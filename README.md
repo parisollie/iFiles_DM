@@ -8,7 +8,7 @@ This project is a starting point for a Android application.
 
 This application contains the following knowledge:
 
--Extension functions.
+-Extension functions
 -Save and read files in Json and XML format
 
 ### The application looks like this:
